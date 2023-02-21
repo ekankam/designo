@@ -13,6 +13,7 @@
       {
         "endOfLine": "auto"
       }
-    ]
+    ],
+    "no-undef": "off"
   }
 }
